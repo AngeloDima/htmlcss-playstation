@@ -28,8 +28,13 @@
 }
 
 
-.margin-negative{
+.margin-negativeBG{
     margin-left: -3%;
+}
+
+
+.margin-negativeUP{
+    margin-top: -1%;
 }
 
 

@@ -26,6 +26,14 @@
     padding-top: 250px;
 }
 
+.padding-power-meno{
+    padding-top: 65px;
+}
+
+.padding-power-meno-B{
+    margin-bottom: 65px;
+}
+
 
 .max-width-sfondoONE{
     max-width: 300px;
@@ -63,6 +71,12 @@
 .ADM-BG-GREY{
     background-color: #1f1f1f;
 }
+
+
+.ADM-BG-POLVERE{
+    background-color: #bebcbb;
+}
+
 
 
 

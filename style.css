@@ -14,6 +14,24 @@
 }
 
 
+.padding-power{
+    padding-top: 250px;
+}
+
+
+.max-width-sfondoONE{
+    max-width: 300px;
+}
+
+
+.margin-negative{
+    margin-left: -3%;
+}
+
+
+.font-size-custom{
+    font-size: 3rem;
+}
 
 
 /* *********BC*********** */
@@ -43,7 +61,13 @@
 
 
 
+/* *****Sfondo***** */
 
+#primo-sfondo{
+    background-image: url(img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 

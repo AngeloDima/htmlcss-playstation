@@ -87,11 +87,19 @@
 }
 
 
+#secondo-sfondo{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
 
 
 
 /* -----HOVER------ */
 
 .hover-section2:hover{
-    border-bottom: 3px solid black;
+    border-bottom: 2px solid rgb(2, 154, 255);
 }

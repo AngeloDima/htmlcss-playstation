@@ -14,7 +14,7 @@
 }
 
 .img-fluid-section2{
-    max-width: 75%;
+    max-width: 100%;
 }
 
 
@@ -90,3 +90,8 @@
 
 
 
+/* -----HOVER------ */
+
+.hover-section2:hover{
+    border-bottom: 3px solid black;
+}

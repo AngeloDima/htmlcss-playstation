@@ -13,6 +13,10 @@
     max-width: 10%;
 }
 
+.img-fluid-section2{
+    max-width: 75%;
+}
+
 
 
 
@@ -32,6 +36,9 @@
     margin-left: -3%;
 }
 
+.margin-top-section-2{
+    margin-top: 15%;
+}
 
 .margin-negativeUP{
     margin-top: -1%;
